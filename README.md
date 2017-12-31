@@ -1,5 +1,5 @@
 # mean-of
-:speech_balloon: A Simple CLI Tool to get meaning of spanish Word built with Node.js : [#100DaysOfCode](http://100daysofcode.com/)
+:speech_balloon: A Simple CLI tool to get meaning of spanish word : [#100DaysOfCode](http://100daysofcode.com/)
 
 > Day 6 of #100DaysOfCode Challenge
 
@@ -14,7 +14,11 @@ $ npm install -g mean-of
 ```bash
 
   Usage
-    $ mean-of repository
+    $ mean-of cerveza :beer:
+    From lat. cervesia, voice of or. Celtic.
+    1. f. Alcoholic beverage made with germinated grains of barley or other cereals fermented in water, and aromatized with hops, box, cassia, etc.
+    double beer
+    1. f. strong beer.
 
 ```
 
