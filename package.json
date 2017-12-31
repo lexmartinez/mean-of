@@ -1,6 +1,6 @@
 {
   "name": "mean-of",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Simple CLI tool to get meaning of spanish word",
   "license": "MIT",
   "bin": "cli.js",
