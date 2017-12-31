@@ -14,7 +14,7 @@ $ npm install -g mean-of
 ```bash
 
   Usage
-    $ mean-of cerveza :beer:
+    $ mean-of cerveza
     From lat. cervesia, voice of or. Celtic.
     1. f. Alcoholic beverage made with germinated grains of barley or other cereals fermented in water, and aromatized with hops, box, cassia, etc.
     double beer
