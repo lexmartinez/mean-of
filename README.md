@@ -1,8 +1,6 @@
 # mean-of
 :speech_balloon: A Simple CLI tool to get meaning of spanish word : [#100DaysOfCode](http://100daysofcode.com/)
 
-> Day 6 of #100DaysOfCode Challenge
-
 ## Install
 
 ```bash
